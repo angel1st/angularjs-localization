@@ -1,0 +1,32 @@
+{
+  "name": "angularjs-localization",
+  "version": "1.0.0",
+  "homepage": "https://github.com/angel1st/angularjs-localization",
+  "description": "angularjs localization for AngularJS 1.6+",
+  "main": "angularjs-localization.js",
+  "keywords": [
+    "angularjs",
+    "localization",
+    "i18n",
+    "l10n",
+    "internationalization",
+    "angular",
+    "ng"
+  ],
+  "authors": [
+    "Angel Todorov"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">=1.6 < 2",
+    "angular-cookies": ">=1.6 < 2",
+    "angular-sanitize": ">=1.6 < 2"
+  }
+}
