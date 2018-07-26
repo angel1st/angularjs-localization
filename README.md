@@ -27,10 +27,9 @@ Inject the dependency into your application module
 angular.module('myApp', ['ngLocalize']);
 ```
 
-## Documentation
+## Credits
 
-Documentation is available on the
-[main AngularJS Localization repo](https://github.com/angel1st/angularjs-localization).
+Created out of [angular-localization](https://github.com/doshprompt/angular-localization) by adding [AnjularJS](https://angularjs.org/) 1.6+ support.
 
 ## License
 
