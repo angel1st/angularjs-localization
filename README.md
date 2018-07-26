@@ -1,4 +1,4 @@
-# bower-angularjs-localization
+# angularjs-localization
 
 This repo is for distribution on `bower`. The source for this module is in the
 [main AngularJS Localization repo](https://github.com/angel1st/angularjs-localization).
