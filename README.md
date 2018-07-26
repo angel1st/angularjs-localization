@@ -9,7 +9,7 @@ Please file issues and pull requests against that repo.
 Install with `bower`:
 
 ```shell
-bower install angular-localization
+bower install angularjs-localization
 ```
 
 Add a `<script>` to your `index.html`:
