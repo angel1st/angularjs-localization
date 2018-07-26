@@ -1,8 +1,8 @@
 /**
- * angular-localization :: v1.2.1 :: 2015-04-17
- * web: https://github.com/doshprompt/angular-localization
+ * angularjs-localization :: v1.0.0 :: 2018-07-26
+ * web: https://github.com/angel1st/angularjs-localization
  *
- * Copyright (c) 2015 | Rahul Doshi
+ * Copyright (c) 2018 | Angel Todorov
  * License: MIT
  */
 ;(function (angular, window, document, undefined) {
